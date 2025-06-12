@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 10px;
+}
+label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
